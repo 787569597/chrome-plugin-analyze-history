@@ -1,0 +1,13 @@
+{
+	"manifest_version":2,
+	"name":"who am i",
+	"version":1.0,
+	"description":"it's a chrome plugin to analyze your history",
+	"icons":{"19":"icons_19.png"},
+	"permissions":[ //使用history 的权限许可，以便于使用history API
+	"history"
+	],
+	"web_accessible_resources":[
+	
+	],
+}
