@@ -1,3 +1,43 @@
 /*
-    *@author 
+    *@author 白巧克力味的风
+	*@data 2017-11-05
+	
 */
+
+#all{
+		width:150px;
+		height:200px;
+		background:red;
+	}
+	.first_part{	
+			width:150px;
+			height:50px;
+			background:black;
+			border-width:1px;
+			border-style:solid;
+			border-color:white;
+		}
+	.second_part{
+			width:150px;
+			height:50px;
+			background:black;
+			border-width:1px;
+			border-style:solid;
+			border-color:white;
+		}	
+	.third_part{
+			width:150px;
+			height:50px;
+			background:black;			
+			border-width:1px;
+			border-style:solid;
+			border-color:white;
+		}
+	.pending_development_part{
+			width:150px;
+			height:50px;
+			background:black;			
+			border-width:1px;
+			border-style:solid;
+			border-color:white;
+		}
